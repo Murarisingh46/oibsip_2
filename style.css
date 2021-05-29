@@ -184,7 +184,7 @@ img {
 
 /* headerEnd */
 #hero {
-  background-image: url(MyImage.jpg);
+  background-image: url(img1.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
@@ -249,7 +249,7 @@ img {
 .cta {
   display: inline-block;
   padding: 10px 30px;
-  color: crimson;
+  color: white;
   background-color: transparent;
   border: 2px solid;
   font-size: 2rem;
